@@ -19,7 +19,7 @@
 ### Toggle button that shows today's to do item
 ![image](https://user-images.githubusercontent.com/17325437/35189155-70fd7d72-fe0a-11e7-8795-773789bee67b.png)
 
-### To delete an item, right click on the item and click on the delete from the context menu
+### To delete an item, right click on the item and click on the delete button from the context menu
 ![image](https://user-images.githubusercontent.com/17325437/35189180-d734d3e2-fe0a-11e7-98cb-437fe2140b0a.png)
 
 ### To close the program, click file and go to exit or simply click the close button
