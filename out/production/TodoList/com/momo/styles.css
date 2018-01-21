@@ -1,0 +1,8 @@
+.borderpane{
+}
+
+.toggle-button, .button{
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 13;
+}
