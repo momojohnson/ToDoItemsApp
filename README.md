@@ -1,5 +1,5 @@
-###Todo list app using JavaFx
-###Features:
+### Todo list app using JavaFx
+### Features:
    #### ----> store todo items to a text file when program closes
    #### ----> reads todo items from text file to listView control when when application starts
    #### ----> Allows user to add, edit and delete to do items
